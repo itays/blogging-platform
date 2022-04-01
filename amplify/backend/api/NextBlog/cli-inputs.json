@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "NextBlog",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/isidis/Projects/amplify-next/amplify/backend/api/NextBlog/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-03-31T12:41:18.328Z",
+      "keyDescription": "public"
+    }
+  }
+}
